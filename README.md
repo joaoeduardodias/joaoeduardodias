@@ -14,9 +14,10 @@
   <a href="https://github.com/joaoeduardodias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoeduardodias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoeduardodias&layout=compact&langs_count=7&theme=dracula"/>
+   
 </div>
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block"  align="center"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,6 +26,7 @@
   <img align="center" alt="Joao-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  
 </div>
+ 
    ##
  
 <div align="center"> 
@@ -39,9 +41,18 @@
   
 </div>
   
+ <div align="center">
+  
+ ### game snake with commits
+  
+ ![Snake animation](https://github.com/joaoeduardodias/joaoeduardodias/blob/output/github-contribution-grid-snake.svg)
   
   
-![Snake animation](https://github.com/joaoeduardodias/joaoeduardodias/blob/output/github-contribution-grid-snake.svg)
+  
+  
+ </div>
+ 
+ 
   
 
  
